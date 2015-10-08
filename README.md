@@ -1,4 +1,3 @@
-## Current Status
 
 This is a fork of cbanack's wonderful plugin.
 
